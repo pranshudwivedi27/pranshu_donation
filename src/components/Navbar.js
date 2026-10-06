@@ -9,7 +9,7 @@ function Navbar({ current, onNavigate, onDonate }) {
           <img src="/AandH_Logo.jpeg" alt="AANDH Foundation logo" />
         </div>
         <div className="logo-text">
-          <span className="logo-title">AANDH</span>
+          <span className="logo-title">A&H</span>
           <span className="logo-sub">Foundation</span>
         </div>
       </div>
